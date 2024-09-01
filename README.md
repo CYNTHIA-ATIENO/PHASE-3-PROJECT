@@ -86,11 +86,11 @@ In this phase I perfomed the following tasks:
 
 4. Overall Performance of the Decision tree model:
 
-1. The decision tree model shows high performance with a mean accuracy of 91%, which is quite good. This implies that the model is effectively capturing patterns in the data and making accurate predictions.
-2. Consistency:
+- The decision tree model shows high performance with a mean accuracy of 91%, which is quite good. This implies that the model is effectively capturing patterns in the data and making accurate predictions.
+- Consistency:
 The low standard deviation (0.02) suggests that the model’s performance is consistent across different folds of the cross-validation. This indicates that the model is not overly sensitive to the specific data it was trained on, which is a positive sign of robustness.
 
-3. Model Suitability:
+- Model Suitability:
 Given the high mean accuracy and low variability, the decision tree model appears to be well-suited for this dataset. It is performing reliably and accurately.
 
 5. Our original model test accuracy is 0.852 while GridSearch CV accuracy is 0.94. We can see that GridSearch CV improve the performance for this particular model.
