@@ -99,7 +99,7 @@ Given the high mean accuracy and low variability, the decision tree model appear
 
 The regression model shows a lower rate of predicting true positives(53%) of customer churn. This might ,misinform the company if other superior modelas are not used.
 
-#9.RECOMMENDATIONS
+## 9.RECOMMENDATIONS
 1. Leverage the Best-Performing Model
 Adopt the Decision Tree model for primary churn predictions due to its higher accuracy and consistency.
 
