@@ -1,4 +1,4 @@
-# PHASE-3-PROJECT
+# SYRIA TEL CUSTOMER CHURN PREDICTION
 
 ### PROJECT OVERVIEW
 The primary objective of this project is to develop a predictive model that can classify whether a customer will stop doing business with SyriaTel in the near future. This will help SyriaTel proactively identify at-risk customers and implement retention strategies to reduce churn and minimize financial losses.
